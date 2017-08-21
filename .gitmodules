@@ -1,0 +1,3 @@
+[submodule "first_sub"]
+	path = first_sub
+	url = https://github.com/tiggeymone/first_submodule.git
